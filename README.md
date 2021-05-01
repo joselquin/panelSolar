@@ -1,9 +1,8 @@
-#PanelSolar 
+# PanelSolar 
 
 Pruebas de alimentación con panel solar con ESP32
-mar2021
 
-JLQG(2021)
+JLQG(2021) - mar2021
 
 El objeto de este proyecto es colocar un panel solar en las 4 vertientes de una caseta y medir la tensión que resulta del mismo cada 10s durante 48h en cada vertiente. Las mediciones las realiza un ESP32, gracias a su conversor AD y las envía a una base de datos situada en un servidor virtual a través de MQTT.
 

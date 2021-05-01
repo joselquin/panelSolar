@@ -1,0 +1,11 @@
+{
+  "name": "termocaseta",
+  "version": "1.2.4",
+  "description": "Control de temperatura en mi caseta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JLQG",
+  "license": "ISC"
+}
